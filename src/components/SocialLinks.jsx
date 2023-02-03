@@ -40,14 +40,14 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "https://drive.google.com/file/d/1y0va0ga6EjlsR2oVI81o0c-NBIE1sq_b/view?usp=sharing",
+      href: "https://drive.google.com/file/d/1ukwK9JpO-fadNGZXplVCrFQiZgenA2Wf/view?usp=share_link",
       style: "rounded-br-md",
       download: true,
     },
   ];
 
   return (
-    <div className=" lg:flex flex-col top-[35%] left-0 fixed">
+    <div className=" lg:flex flex-col top-[35%] left-0 fixed" >
       <ul>
         {links.map(({ id, child, href, style, download }) => (
           <li

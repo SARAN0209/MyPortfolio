@@ -26,7 +26,7 @@ const About = () => {
               </p>
               <br />
               <br />
-              <a href="https://drive.google.com/file/d/1y0va0ga6EjlsR2oVI81o0c-NBIE1sq_b/view?usp=sharing" target="_blank">
+              <a href="https://drive.google.com/file/d/1ukwK9JpO-fadNGZXplVCrFQiZgenA2Wf/view?usp=share_link" target="_blank">
                 <button className="btn-primary animate-bounce" >View Resume</button>
               </a>
             </div>
