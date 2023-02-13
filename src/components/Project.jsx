@@ -1,7 +1,7 @@
 import React from "react";
 // import { SwiperSlide } from "swiper/react";
 import project1 from "../assets/images/PizzaApp.JPG";
-import project2 from "../assets/images/YoutubeClone.JPG";
+import project2 from "../assets/images/Blog.JPG";
 import project3 from "../assets/images/EmployeesCreatingApp.JPG";
 import project4 from "../assets/images/TodolistApp.JPG";
 import { FaGithub} from "react-icons/fa";
@@ -21,10 +21,10 @@ const Project = () => {
     },
     {
       img: project2,
-      name: "YOUTUBE CLONE",
-      github_link: "https://github.com/SARAN0209/youtubeCloneCapstone-Frontend",
-      live_link: "https://benevolent-buttercream-c4accf.netlify.app/",
-      skills: ["HTML", "CSS", "REACT.JS", "NODE.JS", "MONGODB", "MONGOOSE", "JWT"]
+      name: "MY BLOG",
+      github_link: "https://github.com/SARAN0209/Blog-Project-Forntend",
+      live_link: "https://fascinating-meringue-83e720.netlify.app/",
+      skills: ["HTML", "CSS", "REACT.JS", "NODE.JS", "MONGODB", "MONGOOSE", "JWT","REDUX"]
     },
     {
       img: project3,
